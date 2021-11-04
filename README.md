@@ -27,3 +27,4 @@ Find more documentation in the sketch supplied as example.
 History: the project started in 2015, at beginning 2020 about 5000 users have worked with it especially in education but even in scientific or industrial environments. Top user countries are USA, Brazil, UE.
 
 Coming soon: a new pro version with TCP an MQTT protocols is under study as an interface to SQL databases, stay in touch.
+
